@@ -1,6 +1,8 @@
 # Python-Kafka-RDBMS-Data-Streaming
 Task Name: Program to stream data from Kafka to relation database (MySQL)
+
 Language Used: Python
+
 Python Libraries Used: mysql.connector, kafka-python
 
 **#Pre-requisites**
