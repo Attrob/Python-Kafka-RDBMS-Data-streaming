@@ -16,7 +16,9 @@ Python Libraries Used: mysql.connector, kafka-python
 3. MySQL 8.0
 
 **#To install python libraries use the following commands**
+
 pip install kafka-python
+
 pip install MySQL-python
 
 **#For Kafka Installation visit below URL for steps**
